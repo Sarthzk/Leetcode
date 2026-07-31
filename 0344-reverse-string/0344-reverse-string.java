@@ -3,12 +3,13 @@ class Solution {
         int start = 0;
         int end = s.length - 1;
 
-        for (; start <= end; start++){
+        while(start <= end){
 
             char temp = s[start];
             s[start] = s[end];
             s[end] = temp;
 
+            start++;
             end--;
 
         }
