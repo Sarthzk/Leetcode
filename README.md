@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Sarthzk/Leetcode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Sarthzk/Leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Sarthzk/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Sarthzk/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Sarthzk/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Dynamic Programming
 |  |
@@ -37,12 +38,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Sarthzk/Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Sarthzk/Leetcode/tree/master/0058-length-of-last-word) |
+| [0242-valid-anagram](https://github.com/Sarthzk/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Sarthzk/Leetcode/tree/master/0344-reverse-string) |
 ## Sorting
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Sarthzk/Leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Sarthzk/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Sarthzk/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Sarthzk/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sarthzk/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Divide and Conquer
