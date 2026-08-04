@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Sarthzk/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Sarthzk/Leetcode/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/Sarthzk/Leetcode/tree/master/0049-group-anagrams) |
+| [0066-plus-one](https://github.com/Sarthzk/Leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Sarthzk/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sarthzk/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sarthzk/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Sarthzk/Leetcode/tree/master/0066-plus-one) |
 | [0326-power-of-three](https://github.com/Sarthzk/Leetcode/tree/master/0326-power-of-three) |
 ## Recursion
 |  |
