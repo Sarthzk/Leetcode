@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/Sarthzk/Leetcode/tree/master/0066-plus-one) |
 | [0326-power-of-three](https://github.com/Sarthzk/Leetcode/tree/master/0326-power-of-three) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Sarthzk/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Recursion
 |  |
 | ------- |
@@ -151,4 +152,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Sarthzk/Leetcode/tree/master/0098-validate-binary-search-tree) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Sarthzk/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
