@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Sarthzk/Leetcode/tree/master/0066-plus-one) |
+| [0258-add-digits](https://github.com/Sarthzk/Leetcode/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/Sarthzk/Leetcode/tree/master/0326-power-of-three) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Sarthzk/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Recursion
@@ -218,4 +219,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Sarthzk/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/Sarthzk/Leetcode/tree/master/0724-find-pivot-index) |
 | [1732-find-the-highest-altitude](https://github.com/Sarthzk/Leetcode/tree/master/1732-find-the-highest-altitude) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Sarthzk/Leetcode/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Sarthzk/Leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
