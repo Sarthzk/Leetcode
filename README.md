@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Sarthzk/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Sarthzk/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Sarthzk/Leetcode/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Sarthzk/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Sarthzk/Leetcode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Sarthzk/Leetcode/tree/master/0392-is-subsequence) |
 ## Sorting
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sarthzk/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Sarthzk/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Sarthzk/Leetcode/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Sarthzk/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Sarthzk/Leetcode/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/Sarthzk/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sarthzk/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
