@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Sarthzk/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Sarthzk/Leetcode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Sarthzk/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0605-can-place-flowers](https://github.com/Sarthzk/Leetcode/tree/master/0605-can-place-flowers) |
 | [0704-binary-search](https://github.com/Sarthzk/Leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Sarthzk/Leetcode/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sarthzk/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sarthzk/Leetcode/tree/master/0011-container-with-most-water) |
+| [0605-can-place-flowers](https://github.com/Sarthzk/Leetcode/tree/master/0605-can-place-flowers) |
 ## Matrix
 |  |
 | ------- |
