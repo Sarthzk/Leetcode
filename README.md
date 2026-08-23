@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Sarthzk/Leetcode/tree/master/0605-can-place-flowers) |
 | [0704-binary-search](https://github.com/Sarthzk/Leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Sarthzk/Leetcode/tree/master/0724-find-pivot-index) |
+| [0941-valid-mountain-array](https://github.com/Sarthzk/Leetcode/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sarthzk/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1207-unique-number-of-occurrences](https://github.com/Sarthzk/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Sarthzk/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
