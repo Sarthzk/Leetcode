@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Sarthzk/Leetcode/tree/master/0008-string-to-integer-atoi) |
+| [0020-valid-parentheses](https://github.com/Sarthzk/Leetcode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Sarthzk/Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Sarthzk/Leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Sarthzk/Leetcode/tree/master/0125-valid-palindrome) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Sarthzk/Leetcode/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/Sarthzk/Leetcode/tree/master/0143-reorder-list) |
 ## Prefix Sum
 |  |
@@ -257,4 +259,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Sarthzk/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Sarthzk/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
