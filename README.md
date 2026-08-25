@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Sarthzk/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Sarthzk/Leetcode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Sarthzk/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0496-next-greater-element-i](https://github.com/Sarthzk/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0605-can-place-flowers](https://github.com/Sarthzk/Leetcode/tree/master/0605-can-place-flowers) |
 | [0704-binary-search](https://github.com/Sarthzk/Leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Sarthzk/Leetcode/tree/master/0724-find-pivot-index) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Sarthzk/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Sarthzk/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Sarthzk/Leetcode/tree/master/0383-ransom-note) |
+| [0496-next-greater-element-i](https://github.com/Sarthzk/Leetcode/tree/master/0496-next-greater-element-i) |
 | [1207-unique-number-of-occurrences](https://github.com/Sarthzk/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Sarthzk/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Sarthzk/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Sarthzk/Leetcode/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/Sarthzk/Leetcode/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/Sarthzk/Leetcode/tree/master/0155-min-stack) |
+| [0496-next-greater-element-i](https://github.com/Sarthzk/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Sarthzk/Leetcode/tree/master/0739-daily-temperatures) |
 ## Prefix Sum
 |  |
@@ -274,5 +277,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/Sarthzk/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Sarthzk/Leetcode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
