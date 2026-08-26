@@ -3,15 +3,15 @@ class Solution {
         Stack<Integer> stack = new Stack<>();
 
         for(String c : tokens){
-            if (c.equals("+")) {
+            if(c.equals("+")){
                 stack.push(stack.pop() + stack.pop());
-            } else if (c.equals("-")) {
+            } else if(c.equals("-")){
                 int second = stack.pop();
                 int first = stack.pop();
                 stack.push(first - second);
-            } else if (c.equals("*")) {
+            } else if(c.equals("*")){
                 stack.push(stack.pop() * stack.pop());
-            } else if (c.equals("/")) {
+            } else if(c.equals("/")){
                 int second = stack.pop();
                 int first = stack.pop();
                 stack.push(first / second);
@@ -19,8 +19,6 @@ class Solution {
                 stack.push(Integer.parseInt(c));
             }
         }
-
         return stack.peek();
-        
     }
 }
