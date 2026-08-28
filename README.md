@@ -290,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/Sarthzk/Leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Sarthzk/Leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0933-number-of-recent-calls](https://github.com/Sarthzk/Leetcode/tree/master/0933-number-of-recent-calls) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -299,10 +300,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Sarthzk/Leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0933-number-of-recent-calls](https://github.com/Sarthzk/Leetcode/tree/master/0933-number-of-recent-calls) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sarthzk/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/Sarthzk/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Sarthzk/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/Sarthzk/Leetcode/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
