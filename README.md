@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Sarthzk/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Sarthzk/Leetcode/tree/master/0383-ransom-note) |
 | [0496-next-greater-element-i](https://github.com/Sarthzk/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0567-permutation-in-string](https://github.com/Sarthzk/Leetcode/tree/master/0567-permutation-in-string) |
 | [1207-unique-number-of-occurrences](https://github.com/Sarthzk/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Sarthzk/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Sarthzk/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Sarthzk/Leetcode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Sarthzk/Leetcode/tree/master/0392-is-subsequence) |
 | [0520-detect-capital](https://github.com/Sarthzk/Leetcode/tree/master/0520-detect-capital) |
+| [0567-permutation-in-string](https://github.com/Sarthzk/Leetcode/tree/master/0567-permutation-in-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Sarthzk/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Sarthzk/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Sarthzk/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Sarthzk/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sarthzk/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Sarthzk/Leetcode/tree/master/0392-is-subsequence) |
+| [0567-permutation-in-string](https://github.com/Sarthzk/Leetcode/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Sarthzk/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sarthzk/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Sarthzk/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -313,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sarthzk/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sarthzk/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0567-permutation-in-string](https://github.com/Sarthzk/Leetcode/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Sarthzk/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sarthzk/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Sarthzk/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
