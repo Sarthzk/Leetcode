@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Sarthzk/Leetcode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Sarthzk/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/Sarthzk/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0506-relative-ranks](https://github.com/Sarthzk/Leetcode/tree/master/0506-relative-ranks) |
 | [0605-can-place-flowers](https://github.com/Sarthzk/Leetcode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Sarthzk/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/Sarthzk/Leetcode/tree/master/0682-baseball-game) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Sarthzk/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Sarthzk/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Sarthzk/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0506-relative-ranks](https://github.com/Sarthzk/Leetcode/tree/master/0506-relative-ranks) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sarthzk/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Sarthzk/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Divide and Conquer
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sarthzk/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Sarthzk/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0506-relative-ranks](https://github.com/Sarthzk/Leetcode/tree/master/0506-relative-ranks) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Sarthzk/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Bucket Sort
 |  |
