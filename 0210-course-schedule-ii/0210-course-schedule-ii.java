@@ -13,11 +13,10 @@ class Solution {
         }
         Queue<Integer> queue = new LinkedList<>();
 
-        for(int i = 0;i < numCourses; i++){
-            if(indegree[i] == 0){
-                queue.offer(i);
-            }
+        for(int i = 0; i < numCourses; i++){
+            if(indegree[i] == 0) queue.offer(i);
         }
+
         int[] res = new int[numCourses];
         int index = 0;
 
@@ -26,14 +25,13 @@ class Solution {
             res[index] = course;
             index++;
 
-            for(int next : adj.get(course)){
-                indegree[next]--;
-                if(indegree[next] == 0){
-                    queue.offer(next);
-                }
+            for(int c : adj.get(course)){
+                indegree[c]--;
+                if(indegree[c] == 0) queue.offer(c);
             }
         }
         if(index == numCourses) return res;
         return new int[0];
+        
     }
 }
