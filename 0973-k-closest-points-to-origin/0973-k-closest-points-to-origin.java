@@ -4,6 +4,7 @@ class Solution {
 
         for(int[] point : points){
             pq.offer(point);
+
             if(pq.size() > k){
                 pq.poll();
             }
@@ -13,6 +14,7 @@ class Solution {
         for(int i = 0; i < k; i++){
             res[i] = pq.poll();
         }
+
         return res;
     }
 }
