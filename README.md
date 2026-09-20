@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Sarthzk/Leetcode/tree/master/0022-generate-parentheses) |
+| [0070-climbing-stairs](https://github.com/Sarthzk/Leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sarthzk/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/Sarthzk/Leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Sarthzk/Leetcode/tree/master/0392-is-subsequence) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Sarthzk/Leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Sarthzk/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Sarthzk/Leetcode/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/Sarthzk/Leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sarthzk/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/Sarthzk/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Sarthzk/Leetcode/tree/master/0258-add-digits) |
@@ -503,4 +505,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Sarthzk/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Sarthzk/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
