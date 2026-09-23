@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Sarthzk/Leetcode/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/Sarthzk/Leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Sarthzk/Leetcode/tree/master/0392-is-subsequence) |
+| [1143-longest-common-subsequence](https://github.com/Sarthzk/Leetcode/tree/master/1143-longest-common-subsequence) |
 ## String
 |  |
 | ------- |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/Sarthzk/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Sarthzk/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Sarthzk/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1143-longest-common-subsequence](https://github.com/Sarthzk/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Sarthzk/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Sarthzk/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Sorting
@@ -529,4 +531,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Sarthzk/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Sarthzk/Leetcode/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
