@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sarthzk/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Sarthzk/Leetcode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Sarthzk/Leetcode/tree/master/0039-combination-sum) |
+| [0042-trapping-rain-water](https://github.com/Sarthzk/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Sarthzk/Leetcode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Sarthzk/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Sarthzk/Leetcode/tree/master/0049-group-anagrams) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Sarthzk/Leetcode/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Sarthzk/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/Sarthzk/Leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sarthzk/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Sarthzk/Leetcode/tree/master/0198-house-robber) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Sarthzk/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sarthzk/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Sarthzk/Leetcode/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/Sarthzk/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/Sarthzk/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Sarthzk/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Sarthzk/Leetcode/tree/master/0141-linked-list-cycle) |
@@ -393,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sarthzk/Leetcode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Sarthzk/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/Sarthzk/Leetcode/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sarthzk/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Sarthzk/Leetcode/tree/master/0155-min-stack) |
@@ -445,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Sarthzk/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Sarthzk/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Sarthzk/Leetcode/tree/master/0739-daily-temperatures) |
 ## Queue
