@@ -18,6 +18,7 @@ class Solution {
         List<Integer> res = new ArrayList<>();
 
         inorder(root, res);
+
         return res;
     }
 
