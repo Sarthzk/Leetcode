@@ -6,41 +6,35 @@ class Solution {
             adj.add(new ArrayList<>());
         }
 
+        int[] prereqCount = new int[numCourses];
+
         for(int[] e : prerequisites){
             adj.get(e[1]).add(e[0]);
+            prereqCount[e[0]]++;
         }
 
-        boolean[] visited = new boolean[numCourses];
-        boolean[] inStack = new boolean[numCourses];
+        Queue<Integer> q = new LinkedList<>();
 
         for(int i = 0; i < numCourses; i++){
-            if(!visited[i]){
-                if(hasCycle(adj, visited, inStack, i)){
-                    return false;
-                }
-            }
-        }
-        return true;
-    }
-
-    boolean hasCycle(List<List<Integer>> adj, boolean[] visited, boolean[] inStack, int course){
-        inStack[course] = true;
-
-        for(int next : adj.get(course)){
-            if(inStack[next]){
-                return true;
-            }
-            if(!visited[next]){
-                if(hasCycle(adj, visited, inStack, next)){
-                    return true;
-                }
+            if(prereqCount[i] == 0){
+                q.offer(i);
             }
         }
 
-        inStack[course] = false;
-        visited[course] = true;
+        int taken = 0;
 
-        return false;
+        while(!q.isEmpty()){
+            int course = q.poll();
+            taken++;
 
+            for(int i : adj.get(course)){
+                prereqCount[i]--;
+
+                if(prereqCount[i] == 0){
+                    q.offer(i);
+                }
+            } 
+        }
+        return taken == numCourses;
     }
 }
