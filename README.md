@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Sarthzk/Leetcode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Sarthzk/Leetcode/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/Sarthzk/Leetcode/tree/master/0739-daily-temperatures) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Sarthzk/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0941-valid-mountain-array](https://github.com/Sarthzk/Leetcode/tree/master/0941-valid-mountain-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Sarthzk/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sarthzk/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Sarthzk/Leetcode/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/Sarthzk/Leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Sarthzk/Leetcode/tree/master/0392-is-subsequence) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Sarthzk/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1143-longest-common-subsequence](https://github.com/Sarthzk/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Sarthzk/Leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## String
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/Sarthzk/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sarthzk/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Sarthzk/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Sarthzk/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0973-k-closest-points-to-origin](https://github.com/Sarthzk/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
@@ -472,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Sarthzk/Leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Sarthzk/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0933-number-of-recent-calls](https://github.com/Sarthzk/Leetcode/tree/master/0933-number-of-recent-calls) |
 ## Sliding Window
 |  |
@@ -560,4 +564,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Sarthzk/Leetcode/tree/master/0056-merge-intervals) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/Sarthzk/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
