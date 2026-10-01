@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Sarthzk/Leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Sarthzk/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Sarthzk/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [4058-maximum-pulse-value-after-one-subarray-rotation](https://github.com/Sarthzk/Leetcode/tree/master/4058-maximum-pulse-value-after-one-subarray-rotation) |
 ## Hash Table
 |  |
 | ------- |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/Sarthzk/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1143-longest-common-subsequence](https://github.com/Sarthzk/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Sarthzk/Leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [4058-maximum-pulse-value-after-one-subarray-rotation](https://github.com/Sarthzk/Leetcode/tree/master/4058-maximum-pulse-value-after-one-subarray-rotation) |
 ## String
 |  |
 | ------- |
@@ -436,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Sarthzk/Leetcode/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sarthzk/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1732-find-the-highest-altitude](https://github.com/Sarthzk/Leetcode/tree/master/1732-find-the-highest-altitude) |
+| [4058-maximum-pulse-value-after-one-subarray-rotation](https://github.com/Sarthzk/Leetcode/tree/master/4058-maximum-pulse-value-after-one-subarray-rotation) |
 ## Simulation
 |  |
 | ------- |
