@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Sarthzk/Leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Sarthzk/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Sarthzk/Leetcode/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/Sarthzk/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Sarthzk/Leetcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Sarthzk/Leetcode/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sarthzk/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Sarthzk/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Sarthzk/Leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Sarthzk/Leetcode/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/Sarthzk/Leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Sarthzk/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Sarthzk/Leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Sarthzk/Leetcode/tree/master/0070-climbing-stairs) |
@@ -584,4 +586,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Sarthzk/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Sarthzk/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
