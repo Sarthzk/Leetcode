@@ -1,29 +1,32 @@
 class Solution {
-    public boolean validPath(int n, int[][] edges, int source, int destination) {
-        List<List<Integer>> adj = new ArrayList<>();
+    int[] parent;
 
+    int find(int x){
+        while(parent[x] != x){
+            parent[x] = parent[parent[x]];
+            x = parent[x];
+        }
+        return x;
+    }
+
+    boolean union(int a, int b){
+        int ra = find(a);
+        int rb = find(b);
+
+        if(ra == rb) return false;
+        parent[ra] = rb;
+        return true;
+    }
+    public boolean validPath(int n, int[][] edges, int source, int destination) {
+        parent = new int[n];
         for(int i = 0; i < n; i++){
-            adj.add(new ArrayList<>());
+            parent[i] = i;
         }
 
         for(int[] e : edges){
-            adj.get(e[0]).add(e[1]);
-            adj.get(e[1]).add(e[0]);
+            union(e[0], e[1]);
         }
 
-        boolean[] visited = new boolean[n];
-        dfs(adj, visited, source);
-        return visited[destination];
-
-    }
-
-    void dfs(List<List<Integer>> adj, boolean[] visited, int source){
-        visited[source] = true;
-
-        for(int neighbour : adj.get(source)){
-            if(!visited[neighbour]){
-                dfs(adj, visited, neighbour);
-            }
-        }
+        return find(source) == find(destination);
     }
 }
