@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Sarthzk/Leetcode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Sarthzk/Leetcode/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/Sarthzk/Leetcode/tree/master/0739-daily-temperatures) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Sarthzk/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Sarthzk/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0941-valid-mountain-array](https://github.com/Sarthzk/Leetcode/tree/master/0941-valid-mountain-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Sarthzk/Leetcode/tree/master/0973-k-closest-points-to-origin) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Sarthzk/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0374-guess-number-higher-or-lower](https://github.com/Sarthzk/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/Sarthzk/Leetcode/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Sarthzk/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sarthzk/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Two Pointers
 |  |
