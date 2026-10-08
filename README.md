@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/Sarthzk/Leetcode/tree/master/0721-accounts-merge) |
 | [0844-backspace-string-compare](https://github.com/Sarthzk/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Sarthzk/Leetcode/tree/master/0990-satisfiability-of-equality-equations) |
+| [1021-remove-outermost-parentheses](https://github.com/Sarthzk/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Sarthzk/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Sarthzk/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1143-longest-common-subsequence](https://github.com/Sarthzk/Leetcode/tree/master/1143-longest-common-subsequence) |
@@ -474,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Sarthzk/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Sarthzk/Leetcode/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/Sarthzk/Leetcode/tree/master/0844-backspace-string-compare) |
+| [1021-remove-outermost-parentheses](https://github.com/Sarthzk/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Sarthzk/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Sarthzk/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/Sarthzk/Leetcode/tree/master/2390-removing-stars-from-a-string) |
@@ -512,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sarthzk/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Sarthzk/Leetcode/tree/master/0022-generate-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/Sarthzk/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 ## Design
 |  |
 | ------- |
