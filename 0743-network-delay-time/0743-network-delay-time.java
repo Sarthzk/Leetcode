@@ -3,8 +3,8 @@ class Solution {
         List<List<int[]>> adj = new ArrayList<>();
         for(int i = 0; i <= n; i++) adj.add(new ArrayList<>());
 
-        for(int[] e : times) {
-            adj.get(e[0]).add(new int[] {e[1], e[2]});
+        for(int[] t : times){
+            adj.get(t[0]).add(new int[]{t[1], t[2]});
         }
 
         int[] dist = new int[n+1];
@@ -16,25 +16,25 @@ class Solution {
 
         while(!pq.isEmpty()){
             int[] curr = pq.poll();
-            int node = curr[0];
+            int node= curr[0];
             int d = curr[1];
 
             if(d > dist[node]) continue;
 
-            for(int[] edge : adj.get(node)) {
-                int next = edge[0], w = edge[1];
-                if(d + w < dist[next]) {
+            for(int[] edge : adj.get(node)){
+                int next = edge[0];
+                int w = edge[1];
+                if(d + w < dist[next]){
                     dist[next] = d + w;
                     pq.offer(new int[]{next, d + w});
                 }
             }
-
         }
-        int max = 0;
+        int res = 0;
         for(int i = 1; i <= n; i++){
             if(dist[i] == Integer.MAX_VALUE) return -1;
-            max = Math.max(max, dist[i]);
+            res = Math.max(res, dist[i]);
         }
-        return max;
+        return res;
     }
 }
