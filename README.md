@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Sarthzk/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Sarthzk/Leetcode/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Sarthzk/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0778-swim-in-rising-water](https://github.com/Sarthzk/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Sarthzk/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0941-valid-mountain-array](https://github.com/Sarthzk/Leetcode/tree/master/0941-valid-mountain-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Sarthzk/Leetcode/tree/master/0973-k-closest-points-to-origin) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/Sarthzk/Leetcode/tree/master/0506-relative-ranks) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Sarthzk/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0743-network-delay-time](https://github.com/Sarthzk/Leetcode/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/Sarthzk/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0973-k-closest-points-to-origin](https://github.com/Sarthzk/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1514-path-with-maximum-probability](https://github.com/Sarthzk/Leetcode/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/Sarthzk/Leetcode/tree/master/1631-path-with-minimum-effort) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/Sarthzk/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/Sarthzk/Leetcode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Sarthzk/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0778-swim-in-rising-water](https://github.com/Sarthzk/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sarthzk/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sarthzk/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/Sarthzk/Leetcode/tree/master/1631-path-with-minimum-effort) |
@@ -318,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Sarthzk/Leetcode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Sarthzk/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Sarthzk/Leetcode/tree/master/0733-flood-fill) |
+| [0778-swim-in-rising-water](https://github.com/Sarthzk/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0994-rotting-oranges](https://github.com/Sarthzk/Leetcode/tree/master/0994-rotting-oranges) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sarthzk/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/Sarthzk/Leetcode/tree/master/1631-path-with-minimum-effort) |
@@ -385,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/Sarthzk/Leetcode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Sarthzk/Leetcode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Sarthzk/Leetcode/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/Sarthzk/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0872-leaf-similar-trees](https://github.com/Sarthzk/Leetcode/tree/master/0872-leaf-similar-trees) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Sarthzk/Leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Sarthzk/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -409,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/Sarthzk/Leetcode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Sarthzk/Leetcode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Sarthzk/Leetcode/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/Sarthzk/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0994-rotting-oranges](https://github.com/Sarthzk/Leetcode/tree/master/0994-rotting-oranges) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Sarthzk/Leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Sarthzk/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -467,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/Sarthzk/Leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Sarthzk/Leetcode/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/Sarthzk/Leetcode/tree/master/0721-accounts-merge) |
+| [0778-swim-in-rising-water](https://github.com/Sarthzk/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Sarthzk/Leetcode/tree/master/0990-satisfiability-of-equality-equations) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Sarthzk/Leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/Sarthzk/Leetcode/tree/master/1631-path-with-minimum-effort) |
@@ -671,6 +678,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Sarthzk/Leetcode/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/Sarthzk/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [1514-path-with-maximum-probability](https://github.com/Sarthzk/Leetcode/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/Sarthzk/Leetcode/tree/master/1631-path-with-minimum-effort) |
+## Minimax
+|  |
+| ------- |
+| [0778-swim-in-rising-water](https://github.com/Sarthzk/Leetcode/tree/master/0778-swim-in-rising-water) |
 <!---LeetCode Topics End-->
