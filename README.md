@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Sarthzk/Leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Sarthzk/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Sarthzk/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Sarthzk/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [4058-maximum-pulse-value-after-one-subarray-rotation](https://github.com/Sarthzk/Leetcode/tree/master/4058-maximum-pulse-value-after-one-subarray-rotation) |
 ## Hash Table
 |  |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/Sarthzk/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sarthzk/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Sarthzk/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Sarthzk/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sarthzk/Leetcode/tree/master/0011-container-with-most-water) |
 | [0605-can-place-flowers](https://github.com/Sarthzk/Leetcode/tree/master/0605-can-place-flowers) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Sarthzk/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Matrix
 |  |
 | ------- |
