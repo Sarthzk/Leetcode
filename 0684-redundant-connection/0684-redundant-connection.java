@@ -28,7 +28,7 @@ class Solution {
         }
         for(int[] e : edges){
             if(!union(e[0], e[1])){
-                return new int[]{e[0], e[1]};
+                return e;
             }
         }
         return new int[0];
