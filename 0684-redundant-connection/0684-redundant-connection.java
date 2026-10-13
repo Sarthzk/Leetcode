@@ -6,7 +6,7 @@ class Solution {
             parent[x] = find(parent[x]);
             return parent[x];
         }
-        else{
+        else {
             return x;
         }
     }
@@ -19,16 +19,16 @@ class Solution {
         parent[ra] = rb;
         return true;
     }
-    public int[] findRedundantConnection(int[][] edges) {
-        int n = edges.length;
-        parent = new int[n+1];
 
-        for(int i = 0; i <= n; i++){
+    public int[] findRedundantConnection(int[][] edges) {
+        parent = new int[edges.length + 1];
+
+        for(int i = 0; i <= edges.length; i++){
             parent[i] = i;
         }
         for(int[] e : edges){
             if(!union(e[0], e[1])){
-                return e;
+                return new int[]{e[0], e[1]};
             }
         }
         return new int[0];
