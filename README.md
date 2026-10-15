@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Sarthzk/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/Sarthzk/Leetcode/tree/master/0506-relative-ranks) |
 | [0518-coin-change-ii](https://github.com/Sarthzk/Leetcode/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/Sarthzk/Leetcode/tree/master/0542-01-matrix) |
 | [0605-can-place-flowers](https://github.com/Sarthzk/Leetcode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Sarthzk/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/Sarthzk/Leetcode/tree/master/0682-baseball-game) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Sarthzk/Leetcode/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Sarthzk/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/Sarthzk/Leetcode/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/Sarthzk/Leetcode/tree/master/0542-01-matrix) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Sarthzk/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1143-longest-common-subsequence](https://github.com/Sarthzk/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Sarthzk/Leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Sarthzk/Leetcode/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/Sarthzk/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/Sarthzk/Leetcode/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/Sarthzk/Leetcode/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/Sarthzk/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Sarthzk/Leetcode/tree/master/0733-flood-fill) |
 | [0778-swim-in-rising-water](https://github.com/Sarthzk/Leetcode/tree/master/0778-swim-in-rising-water) |
@@ -413,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Sarthzk/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Sarthzk/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/Sarthzk/Leetcode/tree/master/0322-coin-change) |
+| [0542-01-matrix](https://github.com/Sarthzk/Leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Sarthzk/Leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Sarthzk/Leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Sarthzk/Leetcode/tree/master/0695-max-area-of-island) |
