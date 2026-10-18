@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/Sarthzk/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Sarthzk/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Sarthzk/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Sarthzk/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 | [4058-maximum-pulse-value-after-one-subarray-rotation](https://github.com/Sarthzk/Leetcode/tree/master/4058-maximum-pulse-value-after-one-subarray-rotation) |
 ## Hash Table
 |  |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/Sarthzk/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sarthzk/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/Sarthzk/Leetcode/tree/master/1631-path-with-minimum-effort) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Sarthzk/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Linked List
 |  |
 | ------- |
@@ -599,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Sarthzk/Leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1514-path-with-maximum-probability](https://github.com/Sarthzk/Leetcode/tree/master/1514-path-with-maximum-probability) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Sarthzk/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Sarthzk/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Topological Sort
 |  |
 | ------- |
