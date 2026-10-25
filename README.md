@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0990-satisfiability-of-equality-equations](https://github.com/Sarthzk/Leetcode/tree/master/0990-satisfiability-of-equality-equations) |
 | [0994-rotting-oranges](https://github.com/Sarthzk/Leetcode/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sarthzk/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Sarthzk/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Sarthzk/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1207-unique-number-of-occurrences](https://github.com/Sarthzk/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sarthzk/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/Sarthzk/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0875-koko-eating-bananas](https://github.com/Sarthzk/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sarthzk/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Sarthzk/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sarthzk/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/Sarthzk/Leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Two Pointers
