@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Sarthzk/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Sarthzk/Leetcode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Sarthzk/Leetcode/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/Sarthzk/Leetcode/tree/master/0394-decode-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Sarthzk/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/Sarthzk/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0520-detect-capital](https://github.com/Sarthzk/Leetcode/tree/master/0520-detect-capital) |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Sarthzk/Leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Sarthzk/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/Sarthzk/Leetcode/tree/master/0326-power-of-three) |
+| [0394-decode-string](https://github.com/Sarthzk/Leetcode/tree/master/0394-decode-string) |
 ## Greedy
 |  |
 | ------- |
@@ -555,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Sarthzk/Leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Sarthzk/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/Sarthzk/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/Sarthzk/Leetcode/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/Sarthzk/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Sarthzk/Leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Sarthzk/Leetcode/tree/master/0735-asteroid-collision) |
