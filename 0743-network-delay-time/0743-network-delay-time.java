@@ -1,7 +1,10 @@
 class Solution {
     public int networkDelayTime(int[][] times, int n, int k) {
         List<List<int[]>> adj = new ArrayList<>();
-        for(int i = 0; i <= n; i++) adj.add(new ArrayList<>());
+
+        for(int i = 0; i <= n; i++){
+            adj.add(new ArrayList<>());
+        }
 
         for(int[] t : times){
             adj.get(t[0]).add(new int[]{t[1], t[2]});
@@ -16,25 +19,25 @@ class Solution {
 
         while(!pq.isEmpty()){
             int[] curr = pq.poll();
-            int node= curr[0];
-            int d = curr[1];
+            int node = curr[0];
+            int cost = curr[1];
+            if(dist[node] < cost) continue;
 
-            if(d > dist[node]) continue;
+            for(int[] e : adj.get(node)){
+                int nextNode = e[0];
+                int nodeCost = e[1];
 
-            for(int[] edge : adj.get(node)){
-                int next = edge[0];
-                int w = edge[1];
-                if(d + w < dist[next]){
-                    dist[next] = d + w;
-                    pq.offer(new int[]{next, d + w});
+                if(cost + nodeCost < dist[nextNode]){
+                    dist[nextNode] = cost + nodeCost;
+                    pq.offer(new int[]{nextNode, cost+nodeCost});
                 }
             }
         }
-        int res = 0;
+        int max = 0;
         for(int i = 1; i <= n; i++){
             if(dist[i] == Integer.MAX_VALUE) return -1;
-            res = Math.max(res, dist[i]);
+            max = Math.max(max, dist[i]);
         }
-        return res;
+        return max;
     }
 }
