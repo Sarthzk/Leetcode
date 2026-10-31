@@ -14,16 +14,17 @@
  * }
  */
 class Solution {
+    int count = 0;
+    int res = 0;
     public int kthSmallest(TreeNode root, int k) {
-        Deque<TreeNode> stack = new ArrayDeque<>();
-        TreeNode curr = root;
-        while(curr != null || !stack.isEmpty()){
-            while(curr != null) { stack.push(curr); curr = curr.left; }
-            curr = stack.pop();
-            k--;
-            if(k == 0) return curr.val;
-            curr = curr.right;
-        }
-        return -1;
+        inorder(root, k);
+        return res;
+    }
+    void inorder(TreeNode node, int k){
+        if(node == null) return;
+        inorder(node.left, k);
+        count++;
+        if(k == count) res = node.val;
+        inorder(node.right, k);
     }
 }
