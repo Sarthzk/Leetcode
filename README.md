@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sarthzk/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sarthzk/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Sarthzk/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/Sarthzk/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Sarthzk/Leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Sarthzk/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Sarthzk/Leetcode/tree/master/0198-house-robber) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Sarthzk/Leetcode/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/Sarthzk/Leetcode/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/Sarthzk/Leetcode/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/Sarthzk/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Sarthzk/Leetcode/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Sarthzk/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Sarthzk/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -533,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Sarthzk/Leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Sarthzk/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Sarthzk/Leetcode/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/Sarthzk/Leetcode/tree/master/0131-palindrome-partitioning) |
 ## Bit Manipulation
 |  |
 | ------- |
