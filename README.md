@@ -467,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Sarthzk/Leetcode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Sarthzk/Leetcode/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/Sarthzk/Leetcode/tree/master/0778-swim-in-rising-water) |
+| [0785-is-graph-bipartite](https://github.com/Sarthzk/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0872-leaf-similar-trees](https://github.com/Sarthzk/Leetcode/tree/master/0872-leaf-similar-trees) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Sarthzk/Leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Sarthzk/Leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
@@ -496,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Sarthzk/Leetcode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Sarthzk/Leetcode/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/Sarthzk/Leetcode/tree/master/0778-swim-in-rising-water) |
+| [0785-is-graph-bipartite](https://github.com/Sarthzk/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/Sarthzk/Leetcode/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Sarthzk/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Sarthzk/Leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -564,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Sarthzk/Leetcode/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/Sarthzk/Leetcode/tree/master/0721-accounts-merge) |
 | [0778-swim-in-rising-water](https://github.com/Sarthzk/Leetcode/tree/master/0778-swim-in-rising-water) |
+| [0785-is-graph-bipartite](https://github.com/Sarthzk/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Sarthzk/Leetcode/tree/master/0990-satisfiability-of-equality-equations) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Sarthzk/Leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/Sarthzk/Leetcode/tree/master/1631-path-with-minimum-effort) |
@@ -677,6 +680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Sarthzk/Leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Sarthzk/Leetcode/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/Sarthzk/Leetcode/tree/master/0743-network-delay-time) |
+| [0785-is-graph-bipartite](https://github.com/Sarthzk/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Sarthzk/Leetcode/tree/master/0990-satisfiability-of-equality-equations) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Sarthzk/Leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1514-path-with-maximum-probability](https://github.com/Sarthzk/Leetcode/tree/master/1514-path-with-maximum-probability) |
@@ -793,4 +797,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/Sarthzk/Leetcode/tree/master/0127-word-ladder) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Sarthzk/Leetcode/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Sarthzk/Leetcode/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
