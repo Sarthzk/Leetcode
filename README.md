@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/Sarthzk/Leetcode/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Sarthzk/Leetcode/tree/master/0542-01-matrix) |
 | [0605-can-place-flowers](https://github.com/Sarthzk/Leetcode/tree/master/0605-can-place-flowers) |
+| [0621-task-scheduler](https://github.com/Sarthzk/Leetcode/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/Sarthzk/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/Sarthzk/Leetcode/tree/master/0682-baseball-game) |
 | [0695-max-area-of-island](https://github.com/Sarthzk/Leetcode/tree/master/0695-max-area-of-island) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Sarthzk/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Sarthzk/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/Sarthzk/Leetcode/tree/master/0567-permutation-in-string) |
+| [0621-task-scheduler](https://github.com/Sarthzk/Leetcode/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/Sarthzk/Leetcode/tree/master/0721-accounts-merge) |
 | [1207-unique-number-of-occurrences](https://github.com/Sarthzk/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Sarthzk/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Sarthzk/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/Sarthzk/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/Sarthzk/Leetcode/tree/master/0506-relative-ranks) |
+| [0621-task-scheduler](https://github.com/Sarthzk/Leetcode/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/Sarthzk/Leetcode/tree/master/0721-accounts-merge) |
 | [0973-k-closest-points-to-origin](https://github.com/Sarthzk/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sarthzk/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -251,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Sarthzk/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Sarthzk/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/Sarthzk/Leetcode/tree/master/0506-relative-ranks) |
+| [0621-task-scheduler](https://github.com/Sarthzk/Leetcode/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Sarthzk/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0743-network-delay-time](https://github.com/Sarthzk/Leetcode/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/Sarthzk/Leetcode/tree/master/0778-swim-in-rising-water) |
@@ -269,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Sarthzk/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Sarthzk/Leetcode/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/Sarthzk/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/Sarthzk/Leetcode/tree/master/0621-task-scheduler) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Sarthzk/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Quickselect
 |  |
@@ -376,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/Sarthzk/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/Sarthzk/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0605-can-place-flowers](https://github.com/Sarthzk/Leetcode/tree/master/0605-can-place-flowers) |
+| [0621-task-scheduler](https://github.com/Sarthzk/Leetcode/tree/master/0621-task-scheduler) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Sarthzk/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Sarthzk/Leetcode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Sarthzk/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
