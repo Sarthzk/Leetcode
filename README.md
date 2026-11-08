@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sarthzk/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/Sarthzk/Leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Sarthzk/Leetcode/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/Sarthzk/Leetcode/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sarthzk/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sarthzk/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Sarthzk/Leetcode/tree/master/0217-contains-duplicate) |
@@ -356,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Sarthzk/Leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Sarthzk/Leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sarthzk/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0204-count-primes](https://github.com/Sarthzk/Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Sarthzk/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Sarthzk/Leetcode/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/Sarthzk/Leetcode/tree/master/0326-power-of-three) |
@@ -553,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Sarthzk/Leetcode/tree/master/0204-count-primes) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Sarthzk/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Backtracking
 |  |
@@ -634,6 +637,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Sarthzk/Leetcode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Sarthzk/Leetcode/tree/master/0258-add-digits) |
 ## Euclidean Algorithm
 |  |
@@ -851,4 +855,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Sarthzk/Leetcode/tree/master/0239-sliding-window-maximum) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Sarthzk/Leetcode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Sarthzk/Leetcode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Sarthzk/Leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
