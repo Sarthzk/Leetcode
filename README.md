@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/Sarthzk/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Sarthzk/Leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Sarthzk/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2352-equal-row-and-column-pairs](https://github.com/Sarthzk/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Sarthzk/Leetcode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Sarthzk/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Sarthzk/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/Sarthzk/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Sarthzk/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Sarthzk/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2352-equal-row-and-column-pairs](https://github.com/Sarthzk/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -420,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/Sarthzk/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sarthzk/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/Sarthzk/Leetcode/tree/master/1631-path-with-minimum-effort) |
+| [2352-equal-row-and-column-pairs](https://github.com/Sarthzk/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Sarthzk/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Linked List
 |  |
@@ -643,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Sarthzk/Leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Sarthzk/Leetcode/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/Sarthzk/Leetcode/tree/master/0844-backspace-string-compare) |
+| [2352-equal-row-and-column-pairs](https://github.com/Sarthzk/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [2390-removing-stars-from-a-string](https://github.com/Sarthzk/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Number Theory
 |  |
