@@ -8,11 +8,8 @@ class Solution {
 
         int n = nums.length;
 
-        for(Map.Entry<Integer, Integer> entry : map.entrySet()){
-            int number = entry.getKey();
-            int count = entry.getValue();
-
-            if(count > n/2) return number; 
+        for(int i : nums){
+            if(map.get(i) > n/2) return i;
         }
         return -1;
     }
