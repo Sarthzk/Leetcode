@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3898-find-the-degree-of-each-vertex](https://github.com/Sarthzk/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3934-smallest-unique-subarray](https://github.com/Sarthzk/Leetcode/tree/master/3934-smallest-unique-subarray) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/Sarthzk/Leetcode/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/Sarthzk/Leetcode/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 | [4058-maximum-pulse-value-after-one-subarray-rotation](https://github.com/Sarthzk/Leetcode/tree/master/4058-maximum-pulse-value-after-one-subarray-rotation) |
 ## Hash Table
 |  |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/Sarthzk/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Sarthzk/Leetcode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Sarthzk/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/Sarthzk/Leetcode/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1514-path-with-maximum-probability](https://github.com/Sarthzk/Leetcode/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/Sarthzk/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Sarthzk/Leetcode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/Sarthzk/Leetcode/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -421,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Sarthzk/Leetcode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Sarthzk/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/Sarthzk/Leetcode/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/Sarthzk/Leetcode/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Matrix
 |  |
 | ------- |
